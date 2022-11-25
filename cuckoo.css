@@ -1,0 +1,161 @@
+.body{
+    background-color: rgb(110, 192, 198);
+}.title1{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.movies{
+    margin-left:650px;
+}
+.trailers{
+    margin-left: 80px;
+}
+.sports{
+    margin-left: 80px;
+}
+.history{
+margin-left: 80px;
+}
+.div1{
+padding:20px;
+border:1px solid lightblue;
+background-color: lightcyan;
+}
+.headerbtn{
+    width: 100px;
+    height: 30px;
+    margin-left: 1170px;
+    margin-top: -45px;
+    background-color: lightblue;
+}
+.masterimg{
+            width: 200px;
+            height: 280px;
+            margin-left: 30px;
+            margin-top: -350px;
+            
+}
+.banner{
+                width: 1470px;
+                height:400px;
+                
+}
+.incinemas{
+            width:200px;
+            height:30px;
+            margin-top: -70px;
+            margin-left:30px;
+            background-color: lightcyan;        
+}
+.master{
+            margin-left: 300px;
+            color:white;
+            margin-top: -330px;
+}
+.rating{
+            margin-left: 300px;
+            color:white;
+}
+.ratenow{
+            margin-left: 365px;
+            margin-top: -45px;
+            width: 70px;
+            height: 25px;
+}
+.twod{
+        margin-left:300px;
+        width:40px;
+}
+.tamil{
+        margin-left: 10px;
+}
+.time{
+        margin-left: 300px;
+        color:white;
+}
+.genres{
+         margin-left: 360px;
+         margin-top:-40px;
+         color:white;
+}
+.releaseddate{
+                margin-left: 436px;
+                color:white;
+                margin-top: -40px;
+}
+.booktickets{
+                margin-left: 300px;
+                width: 120px;
+                height: 40px;
+                background-color:lightcyan;
+}
+.aboutthemovie{
+                margin-left: 50px;
+                margin-top: 150px;
+}
+.ateenager{
+            margin-left: 50px;
+}
+.cast{
+        margin-left: 50px;
+}
+.vijayimg{
+            width: 80px;
+            height: 80px;
+            border-radius: 200px;
+            margin-left: 20px;
+}
+.sethupathiimg{
+                width: 80px;
+                height:80px;
+                border-radius: 200px;
+                margin-left: 40px;
+}
+.malavikaimg{
+                width:80px;
+                height:80px;
+                border-radius: 200px;
+                margin-left:40px;
+}
+.arjundaasimg{
+                width: 80px;
+                height: 80px;
+                border-radius: 200px;
+                margin-left:40px;
+                
+}
+.josephvijay{
+                margin-left: 50px;
+}
+.hero{
+        margin-left: 45px;
+        margin-top: -10px;
+}
+.bhavani{
+            margin-left: 150px;
+            margin-top: -70px;
+}
+.villian{
+            margin-left: 150px;
+            margin-top: -10px;
+}
+.malavika{
+            margin-left: 270px;
+            margin-top: -70px;
+}
+.heroine{
+            margin-left:280px;
+            margin-top: -10px;
+}
+.daas{
+        margin-left:410px;
+        margin-top: -70px;
+}
+.siderole{
+            margin-left: 400px;
+            margin-top: -10px;
+}
+  .div0{
+                border:1px solid lightblue;
+                background-color:lightblue;
+   } 

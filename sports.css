@@ -1,0 +1,238 @@
+.body{
+        background-color:  rgb(110, 192, 198);
+
+}.title1{
+        margin-left: 50px;
+        margin-top: 20px;
+    }
+    .movies{
+        margin-left:50px;
+    }
+    .trailers{
+        margin-left: 80px;
+    }
+    .sports{
+        margin-left: 80px;
+    }
+    .history{
+    margin-left: 80px;
+    }
+    .div1{
+    padding:20px;
+    border:1px solid lightblue;
+    background-color: lightcyan;
+    }
+    .headerbtn{
+        width: 100px;
+        height: 30px;
+        margin-left: 1170px;
+        margin-top: -45px;
+        background-color: lightblue;
+    }   
+    .thisweek{
+        margin-left: 50px;
+        margin-top: 50px;
+    }
+    .mircb{
+            width: 200px;
+            height: 280px;
+            margin-left:50px;
+    }
+    .content1{
+        margin-left: 40px;
+    }
+    .showdetails{
+            width:200px;
+            height:30px;
+            margin-left: -204px;
+    }
+    .srhrcb{
+            width: 200px;
+            height: 280px;
+            margin-left: 400px;
+            margin-top:-300px;
+    }
+    .showdetails2{
+            width:200px;
+            height:30px;
+            margin-left:400px;
+            margin-top: -30px;
+    }
+    .lsgrcb{
+            width: 200px;
+            height:280px;
+            margin-left:750px;
+            margin-top:-300px;
+    }
+    .showdetails3{
+              width:200px;
+             height:30px;
+             margin-left:750px;
+             margin-top: -30px;
+    }
+    .cskrr{
+    width: 200px;
+    height: 280px;
+    margin-left:1100px;
+    margin-top:-300px;
+    }
+    .showdetails4{
+    width:200px;
+    height:30px;
+    margin-left:1100px;
+    margin-top: -30px;
+    }
+    .teddy{
+    margin-left: 100px;
+    }
+    .releasedate{
+            margin-left: 100px;
+            margin-top:-10px;
+    }
+    .language{
+            margin-left: 100px;
+            margin-top: -10px;             
+    }
+    .cuckoo1{
+            margin-left:450px;
+            margin-top:-100px;
+    }
+    .releasedate1{
+            margin-left:450px;
+            margin-top:-10px;
+    }
+    .language1{
+            margin-left: 450px;
+            margin-top:-10px;
+    }
+    .godfather2{
+            margin-left: 800px;
+            margin-top: -100px;
+    }
+    .releasedate2{
+            margin-left: 800px;
+            margin-top:-10px;
+    }
+    .language2{
+            margin-left: 800px;
+            margin-top:-10px;
+    }
+    .tkn3{
+    margin-left: 1150px;
+    margin-top:-100px;
+    }
+    .releasedate3{
+            margin-left: 1150px;
+            margin-top:-10px;
+    }
+    .language3{
+            margin-left:1150px;
+            margin-top: -10px;
+    }
+    
+   .div0{
+                border:1px solid lightblue;
+                background-color:lightblue;
+   }   
+   .argsaud{
+        margin-left: 50px;
+        margin-top:30px;
+        width:200px;
+        height:280px;
+        } 
+.showdetail{
+                margin-left: 50px;
+                width: 200px;
+                height:30px;
+}
+.panarab{
+        margin-left: 400px;
+        margin-top:-310px;
+        width:200px;
+        height:280px;     
+}
+.showdetails5{
+        margin-left: 400px;
+        margin-top:-30px;
+        width: 200px;
+        height:30px;
+}
+.arabaus{
+        margin-left: 750px;
+        margin-top:-310px;
+        width:200px;
+        height:280px;
+}
+.showdetails6{
+        margin-left: 750px;
+        margin-top:-30px;
+        width: 200px;
+        height:30px;
+}
+.nepoman{
+        margin-left: 1100px;
+        margin-top:-310px;
+        width:200px;
+        height:280px;
+}
+.showdetails7{
+        margin-left: 1100px;
+        margin-top:-30px;
+        width: 200px;
+        height:30px;
+}
+.valimai1{
+                margin-left:100px;
+}
+.releasedate4{
+                margin-left: 100px;
+                margin-top: -10px;
+}
+.language4{
+                margin-left: 100px;
+                margin-top: -10px;
+}
+.master1{
+        margin-left:450px;
+        margin-top:-100px;
+}
+.releasedate5{
+        margin-left: 450px;
+        margin-top: -10px;
+}
+.language5{
+        margin-left: 450px;
+        margin-top: -10px;
+}
+.vikram1{
+        margin-left:800px;
+        margin-top:-100px;
+}
+.releasedate6{
+        margin-left: 800px;
+        margin-top: -10px;
+}
+.language6{
+        margin-left: 800px;
+        margin-top: -10px;
+}
+.maanadu1{
+        margin-left:1150px;
+        margin-top:-100px;
+}
+.releasedate7{
+        margin-left: 1150px;
+        margin-top: -10px;
+}
+.language7{
+        margin-left: 1150px;
+        margin-top: -10px;
+}
+.filter{
+        width:130px;
+        height: 30px;
+        margin-top: -980px;
+        margin-left: 1000px;
+        background-color: lightblue;
+
+}
